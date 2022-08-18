@@ -1,6 +1,6 @@
 # ************************** man hinh loai 2 *************************
 import sys
-# pip install pyqt5
+
 from PyQt6.QtWidgets import QApplication, QMainWindow, QPushButton, QLabel, QFileDialog
 from gui import Ui_MainWindow
 
